@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "931026413106",
+    "project_id": "psfreciclaje",
+    "storage_bucket": "psfreciclaje.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931026413106:android:bbb09a8bd7fffbca7c7e2b",
+        "android_client_info": {
+          "package_name": "com.reciclaje.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931026413106-hflmifln2olsp5jgsbc8oh9m09fakfcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFJn58jVMGOTGMHSFQkE3uY-Df5SOGTAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931026413106-hflmifln2olsp5jgsbc8oh9m09fakfcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
