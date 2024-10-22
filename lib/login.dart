@@ -27,7 +27,7 @@ class _LoginPageState extends State<LoginPage> {
       );
 
       if (userCredential.user != null) {
-        print('Login exitoso: ${userCredential.user?.email}');
+        print('Login exitoso: ${userCredential.user?.uid}');
         
         // Redirigir a la pantalla de bienvenida si la autenticación es exitosa
         Navigator.of(context).pushReplacement(
